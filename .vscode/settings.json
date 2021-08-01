@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
